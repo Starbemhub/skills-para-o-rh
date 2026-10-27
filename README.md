@@ -1,6 +1,6 @@
 # Skills para o RH
 
-Skills do Claude para apoiar o RH e as lideranças de qualquer empresa.
+Skills do Claude para apoiar o RH e as lideranças de qualquer empresa. Feito pela Starbem.
 
 | Skill | Para quê |
 |---|---|

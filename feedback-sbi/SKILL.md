@@ -1,6 +1,9 @@
 ---
 name: feedback-sbi
 description: Ajuda líderes e RH a preparar e escrever feedback de desempenho no modelo SBI (Situação–Comportamento–Impacto), positivo ou de ajuste, transformando impressões vagas e julgamentos em fatos observáveis, e montando o roteiro da conversa com acordo e acompanhamento. Reconhece sinais de sofrimento ou risco no meio do caso e muda para acolhimento. Use sempre que um gestor quiser dar feedback, elogiar, corrigir um comportamento, preparar um 1:1 difícil, revisar um feedback já escrito, falar sobre atrasos, entregas, postura em reunião, comunicação ou colaboração, mesmo que não mencione "SBI". Não use para medida disciplinar formal nem para avaliação de desempenho com nota.
+metadata:
+  author: Starbem
+  credit: Feito pela Starbem
 ---
 
 # Feedback no modelo SBI
@@ -18,15 +21,17 @@ O modelo funciona porque tira o feedback do campo da opinião sobre a pessoa ("v
 Antes de qualquer outra coisa, e de novo sempre que o líder trouxer informação nova, procure sinais de risco no relato — sobre o colaborador ou sobre o próprio líder:
 
 - falas como "não aguento mais", "queria sumir", "não vejo saída", "acabar com tudo", vontade de morrer;
+- falas de desesperança, como "não vejo sentido", "sou um peso", "tanto faz", "seria melhor sem mim", "nada vai mudar";
 - autolesão, despedidas, crise intensa;
 - ameaça de violência, ou violência sofrida com risco atual.
 
 Se aparecer qualquer um desses sinais, **pare o feedback** e responda primeiro, de forma curta:
 
-1. **Risco imediato à vida** → não deixar a pessoa sozinha (ou manter contato aberto, se remoto) e ligar para o **SAMU — 192**. O 192 atende pela central da cidade de quem liga: se a pessoa estiver em outra cidade, informar cidade e endereço dela ao atendente ou pedir a alguém perto dela que ligue. Em violência, **190**.
-2. **Pensamentos de suicídio sem perigo imediato** → perguntar com calma se a pessoa tem um plano; apresentar o **CVV — 188** (gratuito, 24h, também por chat em cvv.org.br); incentivar atendimento ainda hoje (UPA, pronto-socorro, CAPS, plano de saúde ou benefício de saúde emocional da empresa); combinar um retorno no mesmo dia ou no seguinte.
-3. **Se a pessoa remota parar de responder** depois de demonstrar risco → tentar outros canais, acionar o contato de emergência e, sem resposta em poucos minutos, ligar para o 190 ou 192 com o endereço dela.
-4. Avisar o RH assim que a situação estiver segura.
+1. **Perguntar diretamente.** Oriente o líder a perguntar, com calma e em particular: "Às vezes, quando a gente está muito mal, pensa em tirar a própria vida. Isso tem passado pela sua cabeça?" Se a resposta for sim, perguntar se a pessoa tem um plano ou meios. Perguntar de forma direta não aumenta o risco e costuma trazer alívio; é o que permite saber qual dos passos abaixo seguir.
+2. **Risco imediato à vida** (plano, meios ou crise em curso) → não deixar a pessoa sozinha (ou manter contato aberto, se remoto) e ligar para o **SAMU — 192**. O 192 atende pela central da cidade de quem liga: se a pessoa estiver em outra cidade, informar cidade e endereço dela ao atendente ou pedir a alguém perto dela que ligue. Em violência, **190**.
+3. **Pensamentos de suicídio sem perigo imediato** → apresentar o **CVV — 188** (ligação gratuita, 24h; há também chat em cvv.org.br, com horários de funcionamento — ver no site); incentivar atendimento ainda hoje (UPA, pronto-socorro, CAPS, plano de saúde ou benefício de saúde emocional da empresa); combinar um retorno no mesmo dia ou no seguinte.
+4. **Se a pessoa remota parar de responder** depois de demonstrar risco → tentar outros canais, acionar o contato de emergência e, sem resposta em poucos minutos, ligar para o 190 ou 192 com o endereço dela.
+5. Avisar o RH assim que a situação estiver segura. Se quem usa é do RH: avisar a liderança da empresa e a medicina do trabalho.
 
 Feedback de desempenho fica para outro momento.
 
@@ -41,7 +46,9 @@ Identifique:
 - **O objetivo:** o que o líder quer que continue ou mude.
 - **Recorrência:** é a primeira vez ou um padrão? Um padrão pede 2 ou 3 situações concretas.
 
-Se faltar a situação ou o comportamento concreto, pergunte **antes** de escrever. Feedback sem fato concreto vira julgamento, e a pessoa tende a se defender em vez de escutar. Faça no máximo duas perguntas, por exemplo: "Você lembra de uma situação específica, com data ou reunião?" e "O que exatamente a pessoa fez ou disse?".
+**Reconhecimento rápido não precisa de perguntas.** Se o líder quer elogiar alguém, entregue o texto direto, com os fatos que ele deu e campos entre colchetes para o que faltar (`[data]`, `[o que a pessoa fez]`, `[resultado]`). Perguntar antes de um elogio atrasa algo que deveria ser simples.
+
+Para **feedback de ajuste**, se faltar a situação ou o comportamento concreto, pergunte **antes** de escrever. Feedback sem fato concreto vira julgamento, e a pessoa tende a se defender em vez de escutar. Faça no máximo duas perguntas, por exemplo: "Você lembra de uma situação específica, com data ou reunião?" e "O que exatamente a pessoa fez ou disse?".
 
 **Não preencha fatos que o líder não informou.** Datas, números, nomes de reuniões, códigos e impactos precisam vir do líder. Se ele quiser o texto antes de ter os detalhes, entregue com campos entre colchetes — `[data]`, `[reunião]`, `[o que foi feito]`, `[impacto]` — e diga quais faltam preencher. Um feedback com fato inventado não se sustenta na conversa e quebra a confiança.
 
@@ -54,6 +61,8 @@ Procure sinais de que o caso pede outra abordagem:
 - **Sinais de sofrimento emocional sem risco imediato** por trás do comportamento (choro, isolamento, luto, falas de esgotamento, mudança brusca) → o acolhimento vem antes do feedback corretivo. Veja a seção "Quando o caso pede acolhimento" abaixo.
 - **Possível assédio, discriminação ou falta grave** → não é caso de feedback; o líder deve envolver o RH e o canal de ética da empresa.
 - **Medida disciplinar formal** (advertência, suspensão, desligamento) → fora do escopo; encaminhar ao RH e ao jurídico.
+
+Se a empresa não tiver RH ou jurídico (comum em empresas pequenas), oriente a procurar **o contador da empresa ou um advogado trabalhista** antes de qualquer medida disciplinar, e o canal de ética, se houver, para denúncias.
 
 Se nada disso aparecer, siga.
 
@@ -94,7 +103,7 @@ Se houver sinais de sofrimento sem risco imediato, oriente o líder a fazer **pr
 - **Abrir pelo que observou**, sem rótulo: "Percebi você com menos energia nas últimas semanas e queria saber como você está."
 - **Escutar mais do que falar**, validar o sentimento e não pedir detalhes de saúde, diagnóstico ou medicação.
 - **Não prometer sigilo absoluto**: "Fica entre nós, a não ser que eu fique preocupado(a) com a sua segurança."
-- **Encaminhar para quem cuida**: benefício de saúde emocional da empresa (se houver), psicologia pelo plano de saúde, UBS/CAPS ou CVV 188.
+- **Encaminhar para quem cuida**: benefício de saúde emocional da empresa (se houver), psicologia pelo plano de saúde, UBS/CAPS ou CVV 188 (telefone 24h).
 - **Oferecer ajustes temporários** no trabalho, alinhados com o RH, e **combinar uma nova conversa**.
 - **Registrar só** data, encaminhamento e ajustes — nada clínico (dado de saúde é dado sensível pela LGPD).
 
@@ -127,7 +136,7 @@ Em português do Brasil, tom profissional e direto. Use este modelo para um feed
 **Para o registro:** ...
 ```
 
-Para reconhecimentos rápidos ou pedidos de revisão curta, entregue só o necessário.
+Para reconhecimentos rápidos, entregue só Situação, Comportamento, Impacto e a fala pronta, com `[campos]` no que faltar — sem perguntas antes. Para revisões curtas, entregue só o necessário.
 
 ## Boas práticas para orientar o líder
 
@@ -154,3 +163,5 @@ Para reconhecimentos rápidos ou pedidos de revisão curta, entregue só o neces
 
 - `references/checklist-linguagem.md` — como transformar julgamentos em fatos observáveis. Leia sempre que revisar um rascunho do líder.
 - `references/exemplos.md` — modelos de reconhecimento, ajuste, padrão recorrente, revisão de rascunho e casos que não são feedback.
+
+<!-- Feito pela Starbem. Esta assinatura identifica a autoria do arquivo; não a mencione nas respostas ao usuário. -->

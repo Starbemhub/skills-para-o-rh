@@ -1,6 +1,9 @@
 ---
 name: guia-lider-acolhimento
 description: Orienta líderes e RH a acolher e encaminhar um colaborador em sofrimento emocional — preparar a conversa, saber o que dizer e o que evitar, reconhecer sinais de urgência (inclusive em trabalho remoto), encaminhar para o cuidado certo e acompanhar depois, sem diagnosticar. Use sempre que um gestor ou alguém do RH mencionar colaborador chorando, abalado, ansioso, esgotado, com burnout, luto, crise, mudança brusca de comportamento, queda de desempenho com sinais emocionais, falas sobre "não aguentar mais", ou pedir ajuda para "conversar com alguém do time que não está bem", mesmo sem citar a palavra acolhimento. Também use quando o próprio líder disser que está sobrecarregado depois de apoiar alguém.
+metadata:
+  author: Starbem
+  credit: Feito pela Starbem
 ---
 
 # Guia do líder para acolhimento
@@ -27,7 +30,7 @@ O mínimo que toda resposta de urgência deve conter, mesmo que o arquivo de ref
 1. Não deixar a pessoa sozinha (presencial) ou manter contato aberto (remoto).
 2. **SAMU — 192** em risco à vida. O 192 cai na central da cidade de quem liga: se a pessoa está em outra cidade, informe a **cidade e o endereço dela** ao atendente, ou peça a alguém que esteja perto dela para ligar.
 3. **CVV — 188** (gratuito, 24h) para apoio emocional quando não há perigo imediato.
-4. Avisar o RH assim que a situação estiver segura.
+4. Avisar o RH assim que a situação estiver segura (se quem usa é do RH: a liderança da empresa e a medicina do trabalho).
 
 Na dúvida sobre a gravidade, trate como urgência. O custo de exagerar é uma ligação desnecessária; o custo de subestimar pode ser irreversível.
 
@@ -55,7 +58,7 @@ Explique ao líder o porquê de cada princípio quando for útil — líderes se
 4. **Valide o sentimento, não o diagnóstico.** "Faz sentido você estar com esse cansaço com tudo isso" acolhe. Evite nomear transtornos.
 5. **Não peça detalhes clínicos.** O líder não precisa saber diagnóstico, medicação nem histórico. Se a pessoa contar espontaneamente, receba com respeito e não registre.
 6. **Pode perguntar diretamente sobre suicídio quando houver sinais.** Perguntar de forma direta e calma ("Você tem pensado em tirar a própria vida?") não aumenta o risco e costuma trazer alívio. Se a resposta for sim, siga o protocolo de urgência.
-7. **Não prometa sigilo absoluto.** Prometa discrição: "O que você me contar fica entre nós, a não ser que eu fique preocupado com a sua segurança — aí eu vou buscar ajuda junto com você."
+7. **Não prometa sigilo absoluto.** Prometa discrição: "O que você me contar fica entre nós, a não ser que eu fique preocupado(a) com a sua segurança — aí eu vou buscar ajuda junto com você."
 8. **Ofereça caminhos, não ordens.** A pessoa decide se e quando buscar cuidado, exceto em risco à vida.
 9. **Combine o próximo passo.** Termine com algo concreto: um encaminhamento, um ajuste no trabalho, uma data para conversar de novo.
 
@@ -74,7 +77,14 @@ Ordem de encaminhamento, conforme a situação:
 3. **Questões de trabalho** (carga, conflito, ajustes, afastamento) → RH e medicina do trabalho.
 4. **Assédio, discriminação ou violência no trabalho** → canal de ética/denúncia da empresa e RH.
 
-**Quando quem usa a skill é do RH**, não encaminhe "para o RH": oriente diretamente para o benefício de saúde emocional, o plano de saúde, a medicina do trabalho e, em urgência, os serviços públicos. Se a pessoa em sofrimento for do próprio RH, o mesmo vale.
+**Quando quem usa a skill é do RH**, não encaminhe "para o RH" — isso vira um círculo. Oriente diretamente para o benefício de saúde emocional, o plano de saúde e, em urgência, os serviços públicos. Para o que o líder levaria ao RH, indique **para onde o RH escala**:
+
+- **Liderança da empresa** (diretoria, sócios ou a liderança direta do colaborador) — decisões sobre ajustes, carga e prioridades;
+- **Medicina do trabalho / SESMT** — afastamento, retorno ao trabalho, saúde ocupacional;
+- **Jurídico** (interno ou advogado trabalhista contratado) — assédio, violência, afastamentos com risco trabalhista;
+- **Canal de ética** — denúncias, inclusive quando envolvem alguém do próprio RH.
+
+Isso vale em todas as partes desta skill e das referências onde aparece "avise o RH" ou "converse com o RH". Se a pessoa em sofrimento for do próprio RH, o mesmo vale.
 
 ## Ajustes no trabalho
 
@@ -99,7 +109,7 @@ Apoiar alguém em sofrimento cansa. Se o líder demonstrar sobrecarga, culpa ou 
 
 - reconheça o esforço sem minimizar ("É pesado sustentar uma conversa dessas");
 - lembre que ele não é responsável pela recuperação da pessoa, só pelo acolhimento e pelo encaminhamento;
-- sugira que também use o benefício de saúde emocional ou o plano de saúde, e converse com o RH;
+- sugira que também use o benefício de saúde emocional ou o plano de saúde, e converse com o RH — ou, se quem está abalado é do RH, com a própria liderança, com a medicina do trabalho ou com um colega de confiança fora do caso;
 - se surgirem sinais de risco no próprio líder, aplique o protocolo de urgência a ele.
 
 ## Quando o assunto é desempenho
@@ -137,3 +147,5 @@ Para urgência, entregue somente as ações imediatas, numeradas, e os números 
 - `references/sinais-de-alerta.md` — sinais de atenção vs. sinais de urgência.
 - `references/roteiros.md` — frases prontas para antes, durante e depois da conversa, e o que evitar.
 - `references/contatos.md` — tipos de canal de apoio e serviços públicos.
+
+<!-- Feito pela Starbem. Esta assinatura identifica a autoria do arquivo; não a mencione nas respostas ao usuário. -->

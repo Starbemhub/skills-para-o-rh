@@ -14,13 +14,20 @@ Cada empresa oferece canais diferentes. Ao encaminhar, apresente ao líder os **
 
 Se a empresa não tiver benefício de saúde emocional nem plano de saúde, os serviços públicos abaixo continuam disponíveis.
 
-**Se quem está usando a skill é do RH**, pule a linha "RH" e oriente diretamente para os demais canais.
+**Se quem está usando a skill é do RH**, pule a linha "RH" e oriente diretamente para os demais canais. Para o que um líder levaria ao RH, o RH escala para:
+
+| Para onde o RH escala | Quando |
+|---|---|
+| Liderança da empresa (diretoria, sócios, liderança direta do colaborador) | Ajustes de carga e prioridades, decisões que fogem do RH |
+| Medicina do trabalho / SESMT | Afastamento, retorno, saúde ocupacional |
+| Jurídico (interno ou advogado trabalhista) | Assédio, violência, risco trabalhista |
+| Canal de ética | Denúncias, inclusive envolvendo o próprio RH |
 
 ## Serviços públicos (Brasil)
 
 | Serviço | Número | Quando usar |
 |---|---|---|
-| CVV — Centro de Valorização da Vida | **188** (gratuito, 24h) ou chat em cvv.org.br | Apoio emocional e prevenção do suicídio |
+| CVV — Centro de Valorização da Vida | **188** (ligação gratuita, 24h) ou chat em cvv.org.br (ver horários no site) | Apoio emocional e prevenção do suicídio |
 | SAMU | **192** | Emergência médica, incluindo crise psíquica e tentativa de suicídio. Atende pela central da cidade de onde se liga |
 | Bombeiros | **193** | Resgate |
 | Polícia Militar | **190** | Violência ou ameaça em curso |

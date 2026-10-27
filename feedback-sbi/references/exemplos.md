@@ -15,6 +15,8 @@ Modelos para calibrar o formato. Os campos entre colchetes mostram **onde entra 
 
 **Falta preencher:** data, cliente/chamado, ações concretas, tempo de resolução e resultado — a partir do que o líder lembrar.
 
+Repare que não houve pergunta antes: em reconhecimento, a resposta já sai pronta para completar.
+
 ## 2. Ajuste pontual
 
 **Pedido do líder:** "A pessoa apresentou a demo sem testar antes e deu erro na frente da diretoria."
@@ -78,6 +80,6 @@ Pergunta necessária antes de escrever: "Você consegue apontar dois ou três di
 **Resposta esperada:** Parar o feedback. Responder de forma curta e numerada:
 1. Retomar o contato hoje, com calma, e perguntar diretamente se a pessoa tem pensado em tirar a própria vida e se tem um plano.
 2. Se houver plano ou perigo imediato: não deixar a pessoa sozinha (ou manter a chamada aberta) e ligar para o **SAMU — 192**; se ela estiver em outra cidade, informar cidade e endereço dela ou pedir a alguém perto dela que ligue.
-3. Sem perigo imediato: apresentar o **CVV — 188** (gratuito, 24h), incentivar atendimento ainda hoje e combinar um retorno.
+3. Sem perigo imediato: apresentar o **CVV — 188** (ligação gratuita, 24h), incentivar atendimento ainda hoje e combinar um retorno.
 4. Se ela parar de responder: tentar outros canais, acionar o contato de emergência e, sem resposta, ligar para 190 ou 192 com o endereço dela.
 5. Avisar o RH. O feedback sobre os atrasos fica para depois.

@@ -9,7 +9,9 @@ Responda ao líder de forma **curta, numerada e começando pela ação**. Explic
 - **SAMU — 192:** emergência médica, inclusive crise psíquica e tentativa de suicídio.
 - **Bombeiros — 193:** resgate.
 - **Polícia Militar — 190:** violência ou ameaça em curso.
-- **CVV — 188:** apoio emocional e prevenção do suicídio, gratuito, 24h (também por chat em cvv.org.br).
+- **CVV — 188:** apoio emocional e prevenção do suicídio, ligação gratuita, 24h. Há também chat em cvv.org.br, mas **com horários de funcionamento** (ver no site) — em crise, prefira o telefone.
+
+> **Se quem usa é do RH:** onde este protocolo diz "avise o RH", avise a liderança da empresa e a medicina do trabalho; envolva o jurídico em casos de violência ou assédio.
 
 ## Se a pessoa está em perigo agora (presencial)
 
@@ -68,6 +70,6 @@ Quando houve sinal de risco e a pessoa deixa de responder:
 
 ## Depois da urgência
 
-- Registre apenas: data, que houve acionamento de emergência e quem foi avisado no RH. Nada clínico.
-- O líder também passou por algo difícil. Sugira que procure apoio para si (benefício de saúde emocional, plano de saúde) e converse com o RH.
-- O retorno ao trabalho é combinado com o RH e, quando cabível, com a medicina do trabalho.
+- Registre apenas: data, que houve acionamento de emergência e quem foi avisado. Nada clínico.
+- O líder também passou por algo difícil. Sugira que procure apoio para si (benefício de saúde emocional, plano de saúde) e converse com o RH. **Se quem passou pela situação é do RH**, o caminho é a própria liderança, a medicina do trabalho e, se houver violência ou risco trabalhista, o jurídico.
+- O retorno ao trabalho é combinado com o RH e com a medicina do trabalho (quando cabível). Se quem conduz é o RH, o retorno é alinhado com a medicina do trabalho e com a liderança direta do colaborador.
