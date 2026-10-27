@@ -38,6 +38,7 @@ Mudanças que se repetem ou se mantêm por mais de duas semanas:
 - Crise intensa que não cede: pânico, desorientação, agitação extrema
 - Ameaça de violência contra si ou contra outras pessoas
 - Relato de violência sofrida com risco atual
+- Pessoa remota que demonstrou risco e parou de responder
 
 → Vá direto para `protocolo-urgencia.md`.
 
@@ -46,4 +47,5 @@ Mudanças que se repetem ou se mantêm por mais de duas semanas:
 - **Não espere certeza.** Na dúvida entre atenção e urgência, trate como urgência.
 - **Não tente confirmar um diagnóstico.** O líder observa comportamento; quem avalia é o profissional de saúde.
 - **Melhora súbita** depois de um período muito difícil, acompanhada de despedidas, também é sinal de urgência.
+- **Em trabalho remoto**, os sinais aparecem mais em mensagens, ausências e mudanças de padrão (sumir do chat, câmera sempre desligada) do que em expressão facial. Vale conversar com mais frequência individualmente.
 - **Queda de desempenho com sinais emocionais** pede acolhimento antes de feedback corretivo.

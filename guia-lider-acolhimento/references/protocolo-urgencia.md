@@ -1,26 +1,51 @@
 # Protocolo de urgência
 
-Use quando houver risco à vida ou à integridade de alguém: fala sobre suicídio ou despedida, autolesão, crise intensa que não cede, ameaça de violência ou violência em curso.
+Use quando houver risco à vida ou à integridade de alguém: fala sobre suicídio ou despedida, autolesão, crise intensa que não cede, ameaça de violência, violência em curso, ou uma pessoa remota em risco que parou de responder.
 
 Responda ao líder de forma **curta, numerada e começando pela ação**. Explicações ficam para depois.
 
-## Se a pessoa está em perigo agora
+## Números de emergência (Brasil)
 
-1. **Não deixe a pessoa sozinha.** Se for presencial, fique junto ou peça para alguém de confiança ficar. Se for remoto, mantenha a chamada aberta.
-2. **Ligue para a emergência:**
-   - **SAMU — 192** (emergência médica, inclusive crise psíquica e tentativa de suicídio)
-   - **Bombeiros — 193** (resgate)
-   - **Polícia Militar — 190** (violência ou ameaça em curso)
-   Se a pessoa estiver remota, peça o endereço atual e informe ao serviço.
+- **SAMU — 192:** emergência médica, inclusive crise psíquica e tentativa de suicídio.
+- **Bombeiros — 193:** resgate.
+- **Polícia Militar — 190:** violência ou ameaça em curso.
+- **CVV — 188:** apoio emocional e prevenção do suicídio, gratuito, 24h (também por chat em cvv.org.br).
+
+## Se a pessoa está em perigo agora (presencial)
+
+1. **Não deixe a pessoa sozinha.** Fique junto ou peça para alguém de confiança ficar.
+2. **Ligue para o 192** (ou 190 em caso de violência). Informe o endereço exato.
 3. **Afaste meios de risco**, se for seguro fazer isso (medicamentos em excesso, objetos cortantes). Não se coloque em perigo.
-4. **Avise o RH** (contato de urgência em `contatos.md`) assim que a situação estiver sob controle.
+4. **Avise o RH** assim que a situação estiver sob controle.
+
+## Se a pessoa está em perigo agora (remoto)
+
+O 192 e o 190 são atendidos pela central **da cidade de onde a ligação é feita**. Se o líder está em uma cidade e a pessoa em outra, a ligação do líder pode cair na central errada.
+
+1. **Mantenha a chamada ou a conversa aberta.** Peça para a pessoa não desligar.
+2. **Descubra onde a pessoa está:** endereço completo, ou pelo menos cidade e bairro. Pergunte se há alguém em casa ou por perto.
+3. **Acione ajuda local, nesta ordem de preferência:**
+   - peça para a própria pessoa ligar para o 192 enquanto você continua na linha com ela;
+   - peça para alguém que está com ela ou perto dela (família, vizinho, colega de casa) ligar para o 192 de lá;
+   - se nenhuma das duas for possível, ligue você para o 192, diga logo no início que **a pessoa está em outra cidade**, informe cidade e endereço e peça orientação ou transferência para a central de lá.
+4. **Use o contato de emergência** que a pessoa tiver cadastrado na empresa (normalmente com o RH ou no sistema de RH).
+5. **Avise o RH** assim que possível.
+
+### Se a pessoa parou de responder
+
+Quando houve sinal de risco e a pessoa deixa de responder:
+
+1. Tente outros canais: ligação, mensagem no celular, outro app.
+2. Acione o contato de emergência e, se souber, alguém que more perto dela.
+3. Se não conseguir contato em poucos minutos e houver risco real, **acione o 190 ou o 192 com o endereço da pessoa**, explicando que ela demonstrou risco e não responde. Se ligar de outra cidade, avise isso no início da ligação.
+4. Não espere confirmação para agir. Um chamado que se mostra desnecessário é um custo pequeno.
 
 ## Se há pensamentos de suicídio, mas sem perigo imediato
 
-1. Fale com calma e sem julgamento: "Obrigado por me contar. Você não está sozinho e eu vou te ajudar a buscar apoio agora."
-2. Pergunte diretamente se a pessoa tem um plano ou meios. Se sim, trate como **perigo agora** (seção acima).
-3. Apresente o **CVV — 188**: ligação gratuita, 24 horas, ou chat em cvv.org.br. Ofereça ficar junto enquanto a pessoa liga.
-4. Incentive buscar atendimento hoje: UPA, pronto-socorro, CAPS da região ou o canal de saúde emocional do benefício.
+1. Fale com calma e sem julgamento: "Agradeço por me contar. Você não está sozinho(a) e eu vou te ajudar a buscar apoio agora."
+2. Pergunte diretamente se a pessoa tem um plano ou meios. Se sim, trate como **perigo agora** (seções acima).
+3. Apresente o **CVV — 188**. Ofereça ficar junto (ou na chamada) enquanto a pessoa liga.
+4. Incentive buscar atendimento hoje: UPA, pronto-socorro, CAPS da região, plano de saúde ou o benefício de saúde emocional da empresa, se houver.
 5. Pergunte quem é uma pessoa de confiança que pode ficar com ela hoje e incentive o contato.
 6. Combine um retorno no mesmo dia ou no dia seguinte.
 7. Informe o RH, explicando ao colaborador que fará isso para garantir apoio — não como punição.
@@ -29,7 +54,7 @@ Responda ao líder de forma **curta, numerada e começando pela ação**. Explic
 
 - **Violência contra a mulher:** Central de Atendimento à Mulher — **180**.
 - **Violações de direitos humanos** (incluindo contra crianças, idosos, pessoas com deficiência): **Disque 100**.
-- **Assédio no trabalho:** canal de denúncia/ética da Starbem (ver `contatos.md`) e RH.
+- **Assédio no trabalho:** canal de ética/denúncia da empresa e RH.
 - Em risco imediato: **190**.
 
 ## O que evitar em urgência
@@ -38,10 +63,11 @@ Responda ao líder de forma **curta, numerada e começando pela ação**. Explic
 - Discutir, julgar, minimizar ("isso passa", "pensa na sua família").
 - Desafiar ou testar a pessoa.
 - Tentar resolver sozinho uma situação de perigo.
+- Ir até a pessoa sozinho se houver risco de violência.
 - Expor a situação ao time.
 
 ## Depois da urgência
 
 - Registre apenas: data, que houve acionamento de emergência e quem foi avisado no RH. Nada clínico.
-- O líder também passou por algo difícil. Sugira que use o canal de apoio emocional e converse com o RH.
+- O líder também passou por algo difícil. Sugira que procure apoio para si (benefício de saúde emocional, plano de saúde) e converse com o RH.
 - O retorno ao trabalho é combinado com o RH e, quando cabível, com a medicina do trabalho.

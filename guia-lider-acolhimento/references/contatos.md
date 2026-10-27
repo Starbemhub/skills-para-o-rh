@@ -1,26 +1,31 @@
-# Contatos
+# Canais de apoio
 
-> **Para o RH:** preencha os itens `[PREENCHER]` antes de publicar a skill para os líderes. Enquanto um item estiver vazio, a skill orienta o líder a procurar o RH e não inventa canais.
+Cada empresa oferece canais diferentes. Ao encaminhar, apresente ao líder os **tipos de canal** abaixo e diga onde ele costuma encontrar cada um. Não invente nomes, telefones ou links de canais internos.
 
-## Canais internos da Starbem
+## Canais da empresa e do plano
 
-| Canal | Para quê | Contato |
+| Canal | Para quê | Onde o líder costuma encontrar |
 |---|---|---|
-| Saúde emocional do benefício | Atendimento psicológico para colaboradores | [PREENCHER — como acessar: app, link, horário] |
-| RH / People | Ajustes de trabalho, afastamentos, dúvidas | [PREENCHER — nome do canal ou e-mail] |
-| Contato de urgência do RH | Avisar o RH após uma situação de risco | [PREENCHER — telefone/canal fora do horário comercial] |
-| Canal de denúncia / ética | Assédio, discriminação, violência no trabalho | [PREENCHER] |
-| Medicina e segurança do trabalho | Afastamentos e retorno ao trabalho | [PREENCHER] |
+| Benefício de saúde emocional ou programa de apoio ao colaborador | Atendimento psicológico, às vezes também jurídico, financeiro e social | App ou portal do benefício, portal do colaborador, comunicados do RH |
+| Plano de saúde | Psicologia e psiquiatria da rede credenciada; pronto-socorro | App do plano, carteirinha, central de atendimento do plano |
+| RH | Ajustes de trabalho, afastamentos, contato de emergência do colaborador | Canal interno do RH, gestor do RH, sistema de RH |
+| Medicina do trabalho / SESMT | Afastamento por saúde, retorno ao trabalho, saúde ocupacional | Pelo RH ou pelo serviço de saúde ocupacional contratado |
+| Canal de ética ou de denúncia | Assédio, discriminação, violência no trabalho | Código de conduta, portal do colaborador, intranet |
+
+Se a empresa não tiver benefício de saúde emocional nem plano de saúde, os serviços públicos abaixo continuam disponíveis.
+
+**Se quem está usando a skill é do RH**, pule a linha "RH" e oriente diretamente para os demais canais.
 
 ## Serviços públicos (Brasil)
 
 | Serviço | Número | Quando usar |
 |---|---|---|
 | CVV — Centro de Valorização da Vida | **188** (gratuito, 24h) ou chat em cvv.org.br | Apoio emocional e prevenção do suicídio |
-| SAMU | **192** | Emergência médica, incluindo crise psíquica e tentativa de suicídio |
+| SAMU | **192** | Emergência médica, incluindo crise psíquica e tentativa de suicídio. Atende pela central da cidade de onde se liga |
 | Bombeiros | **193** | Resgate |
 | Polícia Militar | **190** | Violência ou ameaça em curso |
 | Central de Atendimento à Mulher | **180** | Violência contra a mulher |
 | Disque Direitos Humanos | **100** | Violações de direitos humanos |
-| CAPS (Centro de Atenção Psicossocial) | Busque o da sua cidade | Atendimento público em saúde mental |
+| UBS (Unidade Básica de Saúde) | — | Porta de entrada do SUS, inclusive para saúde mental |
+| CAPS (Centro de Atenção Psicossocial) | Busque o da cidade | Atendimento público especializado em saúde mental |
 | UPA / pronto-socorro | — | Atendimento presencial no mesmo dia |
